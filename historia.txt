@@ -5,3 +5,5 @@ Pepe instalo la zshell en Ubuntu con WSL en Windows 10
 El codigo code . sigue sin funcionar
 
 Se debe agregar el remote al $PATH
+
+Ahora solo intento aprender como funciona git.
