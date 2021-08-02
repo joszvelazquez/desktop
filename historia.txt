@@ -1,0 +1,7 @@
+Esta es la historia de Pepe
+
+Pepe instalo la zshell en Ubuntu con WSL en Windows 10
+
+El codigo code . no funciona 
+
+Se debe agregar el remote al $PATH
