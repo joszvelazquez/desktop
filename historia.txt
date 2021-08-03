@@ -9,3 +9,12 @@ El codigo code . sigue sin funcionar
 Se debe agregar el remote al $PATH
 
 Ahora solo intento aprender como funciona git.
+git init
+git branch nombre_De_la_branch
+git commit -am "mensaje"
+git checkout id_o_branch
+git rm --cached
+git reset id_ --soft/--hard
+
+
+Estoy aprendiendo bien el git, ya se hacer branches
